@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Shiba-Tatsuya
+- 👋 Hi, I’m Jatin
 - 👀 I’m interested in Computer Programming
 - 🌱 I’m currently learning C++
 - 💞️ I’m looking to collaborate on some student level projects
