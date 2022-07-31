@@ -1,6 +1,5 @@
 - 👋 Hi, I’m Jatin
 - 👀 I’m interested in Computer Programming
-- 🌱 I’m currently learning C++
 - 💞️ I’m looking to collaborate on some student level projects
 - 📫 How to reach me sgoku6301@gmail.com
 
