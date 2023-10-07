@@ -12,6 +12,9 @@ Hello there! I'm Jatin Rane, a recent graduate with a degree in Production Engin
 ![](https://github-readme-streak-stats.herokuapp.com/?user=Shiba-Tatsuya&theme=dark&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Shiba-Tatsuya&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
+# 🏅 My Badge Collection:
+
+[![An image of @shibatatsuya's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/shibatatsuya)](https://holopin.io/@shibatatsuya)
 ---
 [![](https://visitcount.itsvg.in/api?id=Shiba-Tatsuya&icon=0&color=0)](https://visitcount.itsvg.in)
 
